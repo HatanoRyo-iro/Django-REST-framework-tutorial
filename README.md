@@ -39,11 +39,9 @@ Startup up a new project like so...
     django-admin startproject example .
     ./manage.py migrate
     ./manage.py createsuperuser
+    
+# Execution method
 
-# Documentation & Support
+ ./manage.py runserver
 
-Full documentation for the project is available at [https://www.django-rest-framework.org/][docs].
-
-For questions and support, use the [REST framework discussion group][group], or `#restframework` on libera.chat IRC.
-
-You may also want to [follow the author on Twitter][twitter].
+You can now open the API in your browser at `http://127.0.0.1:8000/`, and view your new 'users' API. If you use the `Login` control in the top right corner you'll also be able to add, create and delete users from the system.
