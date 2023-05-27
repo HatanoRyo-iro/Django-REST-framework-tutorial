@@ -1,4 +1,4 @@
-# Django　REST　framework　tutorial
+# DjangoRESTframework　tutorial
 
 **Awesome web-browsable Web APIs.**
 
